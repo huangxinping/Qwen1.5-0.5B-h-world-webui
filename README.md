@@ -1,20 +1,18 @@
-# An 18+ novel generator with streamlit.
+# An 18+ novel generator creadted with streamlit.
 
-❌❌❌ Warning: If you are under 18 years old, please do not use this tool. ❌❌❌ 
+❌❌❌ Warning: If you are under 18 years old, please don't use this tool. ❌❌❌ 
 
-## Install Dependencies
+## Dependencies Installation
 ```
 pip install -r requirements.txt
 ```
 
-## Run
+## Quick Start
 ```
 streamlit run webui.py
 ```
 
-## Usage
-
-Click the "开始生成" button to generate a new paragraph.
+*Click the "开始生成" button to generate a new paragraph.*
 
 ## Limitations
 
