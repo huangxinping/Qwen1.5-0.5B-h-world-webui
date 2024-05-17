@@ -1,4 +1,4 @@
-# An 18+ novel generator creadted with streamlit.
+# An 18+ novel generator created with streamlit.
 
 ❌❌❌ Warning: If you are under 18 years old, please don't use this tool. ❌❌❌ 
 
